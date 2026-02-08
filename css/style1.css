@@ -18,7 +18,7 @@ box-sizing:border-box;
    border-radius: 20px;
 }
 .hero-section{
-    
+    margin-top: 70px;
     background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSovIajn6kxIpQXf8XG-Ou4LeH1CerlmQ-DfQ&s) ;
     background-size: cover;   
     background-repeat: no-repeat;
@@ -55,4 +55,7 @@ box-sizing:border-box;
 .carousel-control-next-icon{
 color: black !important;
 /* background-color: red !important; */
+}
+.my-location{
+    height: 500px;
 }
