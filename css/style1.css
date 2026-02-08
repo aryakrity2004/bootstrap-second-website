@@ -18,10 +18,9 @@ box-sizing:border-box;
    border-radius: 20px;
 }
 .hero-section{
-    margin-top: 65px;
-    height: 150vh;
+    
     background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSovIajn6kxIpQXf8XG-Ou4LeH1CerlmQ-DfQ&s) ;
-    background-size: cover;   /* MOST IMPORTANT */
+    background-size: cover;   
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
@@ -52,4 +51,8 @@ box-sizing:border-box;
 }
 .about-section{
     overflow: hidden;
+}
+.carousel-control-next-icon{
+color: black !important;
+/* background-color: red !important; */
 }
